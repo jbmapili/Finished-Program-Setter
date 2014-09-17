@@ -1,0 +1,7 @@
+c:\users\ytp\documents\visual studio 2013\Projects\運転パターン設定\ProgPatternUnitTestProject\obj\Debug\ProgPatternUnitTestProject.csprojResolveAssemblyReference.cache
+c:\users\ytp\documents\visual studio 2013\Projects\運転パターン設定\ProgPatternUnitTestProject\bin\Debug\ProgPatternUnitTestProject.dll
+c:\users\ytp\documents\visual studio 2013\Projects\運転パターン設定\ProgPatternUnitTestProject\bin\Debug\ProgPatternUnitTestProject.pdb
+c:\users\ytp\documents\visual studio 2013\Projects\運転パターン設定\ProgPatternUnitTestProject\bin\Debug\運転パターン設定.exe
+c:\users\ytp\documents\visual studio 2013\Projects\運転パターン設定\ProgPatternUnitTestProject\bin\Debug\運転パターン設定.pdb
+c:\users\ytp\documents\visual studio 2013\Projects\運転パターン設定\ProgPatternUnitTestProject\obj\Debug\ProgPatternUnitTestProject.dll
+c:\users\ytp\documents\visual studio 2013\Projects\運転パターン設定\ProgPatternUnitTestProject\obj\Debug\ProgPatternUnitTestProject.pdb

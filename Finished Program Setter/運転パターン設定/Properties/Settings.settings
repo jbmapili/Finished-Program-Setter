@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="運転パターン設定.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NodeName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="ServerName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Takebishi.Dxp</Value>
+    </Setting>
+    <Setting Name="DevicePrefix" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DEV1.</Value>
+    </Setting>
+    <Setting Name="TmpCurReg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D10:DR</Value>
+    </Setting>
+    <Setting Name="HmdCurReg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D20:DR</Value>
+    </Setting>
+    <Setting Name="SunCurReg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D30:DR</Value>
+    </Setting>
+    <Setting Name="TmpSetReg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D10:DR</Value>
+    </Setting>
+    <Setting Name="HmdSetReg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D20:DR</Value>
+    </Setting>
+    <Setting Name="SunSetReg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D30:DR</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

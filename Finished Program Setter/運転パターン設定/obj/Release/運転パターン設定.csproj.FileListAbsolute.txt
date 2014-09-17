@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\ProgramPatternSetter\運転パターン設定\bin\Release\運転パターン設定.exe.config
+C:\Users\pc\Desktop\ProgramPatternSetter\運転パターン設定\bin\Release\運転パターン設定.exe
+C:\Users\pc\Desktop\ProgramPatternSetter\運転パターン設定\bin\Release\運転パターン設定.pdb
+C:\Users\pc\Desktop\ProgramPatternSetter\運転パターン設定\bin\Release\DxpSimpleAPI.dll
+C:\Users\pc\Desktop\ProgramPatternSetter\運転パターン設定\obj\Release\運転パターン設定.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\ProgramPatternSetter\運転パターン設定\obj\Release\運転パターン設定.ProgramPattern.resources
+C:\Users\pc\Desktop\ProgramPatternSetter\運転パターン設定\obj\Release\運転パターン設定.Properties.Resources.resources
+C:\Users\pc\Desktop\ProgramPatternSetter\運転パターン設定\obj\Release\運転パターン設定.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\ProgramPatternSetter\運転パターン設定\obj\Release\運転パターン設定.exe
+C:\Users\pc\Desktop\ProgramPatternSetter\運転パターン設定\obj\Release\運転パターン設定.pdb

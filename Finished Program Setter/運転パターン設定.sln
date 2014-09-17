@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "運転パターン設定", "運転パターン設定\運転パターン設定.csproj", "{F3A223B8-6EBD-4756-9E4C-3D7F5DCED4A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgPatternUnitTest", "ProgPatternUnitTestProject\ProgPatternUnitTest.csproj", "{5402ED93-C15F-4615-AB3E-C21D2D89EA38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3A223B8-6EBD-4756-9E4C-3D7F5DCED4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A223B8-6EBD-4756-9E4C-3D7F5DCED4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A223B8-6EBD-4756-9E4C-3D7F5DCED4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A223B8-6EBD-4756-9E4C-3D7F5DCED4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5402ED93-C15F-4615-AB3E-C21D2D89EA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5402ED93-C15F-4615-AB3E-C21D2D89EA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5402ED93-C15F-4615-AB3E-C21D2D89EA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5402ED93-C15F-4615-AB3E-C21D2D89EA38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
